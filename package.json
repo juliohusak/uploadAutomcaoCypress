@@ -1,0 +1,17 @@
+{
+  "name": "meus-testes",
+  "version": "1.0.0",
+  "description": "Projetos Qsaude",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Julio Husak",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "cypress-slow-down": "^1.2.1",
+    "faker": "^6.6.6",
+    "mochawesome": "^7.1.3"
+  }
+}
